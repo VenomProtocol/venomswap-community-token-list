@@ -60,7 +60,15 @@
     "address": "0xe3e267b18464F3CEE00D2e70E18981648998aE9A",
     "symbol": "DJJ",
     "name": "JarJar",
-    "decimals": 16,
+    "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/DJJ.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf0f4a3ea151efdacd211c7d95e8e0b5f7204b08e",
+    "symbol": "KROW",
+    "name": "Raven Token",
+    "decimals": 18,
+    "logoURI": "https://minerbitcoinmobile.files.wordpress.com/2021/05/krow.png"
   }
 ]
