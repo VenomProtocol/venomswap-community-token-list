@@ -54,5 +54,13 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
+  },
+  {
+   "chainId": 1666600000,
+   "address": "0x7531905c4c80b602cff46badc1671fbad496f043",
+   "symbol": "MCONE",
+   "name": "McOne Coin",
+   "decimals": 9,
+   "logoURI": "https://mcone.co/wp-content/uploads/2021/06/mcone-logo-90x902x.png"
   }
 ]
