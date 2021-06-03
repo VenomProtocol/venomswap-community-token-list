@@ -54,5 +54,15 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5eB33c84b5eAec8a2990AF554E20CF6eEF982973",
+    "symbol": "GCC",
+    "name": "G COIN CASH",
+    "decimals": 18,
+    "logoURI": "https://user-images.githubusercontent.com/85272237/120588250-81b17e00-c3fc-11eb-965e-2bb7e9b986f0.jpg"
   }
 ]
+    
+  
