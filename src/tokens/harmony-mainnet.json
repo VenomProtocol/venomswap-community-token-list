@@ -55,4 +55,12 @@
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
+    "symbol": "MUSQ",
+    "name": "MUSIQ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/musiqone/venomswap-community-token-list/cbddc4977fcddb38eeb37427e13cdf145ef7e4e8/MUSIQ_Logo.png"
+  }
 ]
