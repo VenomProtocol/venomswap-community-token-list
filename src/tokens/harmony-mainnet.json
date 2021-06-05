@@ -54,5 +54,13 @@
     "name": "Let's Fucking Go Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
+  },
+   {
+    "chainId": 1666600000,
+    "address": "0xfe6bd84eb54c10a53d7901bb4803eb3ed2dab7b6",
+    "symbol": "CUM",
+    "name": "Canada USA Mexico",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/9p1OfB3.png"
   }
 ]
