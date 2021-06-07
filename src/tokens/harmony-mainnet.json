@@ -49,10 +49,10 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x5415B30fc46317ef494fa96d755350437aE15ac9",
-    "symbol": "LFGT",
-    "name": "Let's Fucking Go Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
+    "address": "0xa1fc0415846fc7f7b5eb98232503cb8f6ae08f12",
+    "symbol": "JOY",
+    "name": "JOYSTICK",
+    "decimals": 6,
+    "logoURI": "https://i.postimg.cc/NG5Wdzds/game-160398-640.png"
   }
 ]
