@@ -54,5 +54,13 @@
     "name": "Let's Fucking Go Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0",
+    "symbol": "MOONI",
+    "name": "Moonity",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/g5HPFsz.png"
   }
 ]
