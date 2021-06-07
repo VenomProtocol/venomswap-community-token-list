@@ -54,5 +54,13 @@
     "name": "Let's Fucking Go Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x1f540F1cdD642FeB0E4AA6495e3b42877e5F64Fa",
+    "symbol": "ROY",
+    "name": "Crypto Royale",
+    "decimals": 18,
+    "logoURI": "https://nanoroyale.com/assets/ROY_token.png"
   }
 ]
