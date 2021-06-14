@@ -95,4 +95,12 @@
     "decimals": 9,
     "logoURI": "https://github.com/freyala/Community-Tokens/blob/main/KURO_token_small.png?raw=true"
   }
+   {
+    "chainId": 1666600000,
+    "address": "0x269B6618CC5Abd27002A5fEc30fd1528dc3be1F1",
+    "symbol": "VALI",
+    "name": "VALI",
+    "decimals": 18,
+    "logoURI": "https://user-images.githubusercontent.com/85116611/120423919-c4fae680-c341-11eb-87b3-00df38a59573.png"
+  }
 ]
