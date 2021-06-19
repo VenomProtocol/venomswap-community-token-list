@@ -1,4 +1,12 @@
 [
+   {
+    "chainId":1666600000,
+    "address":"0x527eCeB0DE14933e40ed7326659213B3F97C1F9d",
+    "symbol":"HME",
+    "name":"Home World",
+    "decimals":18,
+    "logoURI":"https://imgur.com/Ixujz1p"
+  },
   {
     "chainId":1666600000,
     "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
