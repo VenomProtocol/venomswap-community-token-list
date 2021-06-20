@@ -118,5 +118,13 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5305d2fcfc9981c4518c498194df493968d1d822",
+    "symbol": "FRATE",
+    "name": "Fraterium",
+    "decimals": 18,
+    "logoURI": "https://drive.google.com/file/d/1EB9tdbsdTVadc_SmiMdtTsuAshkwtrjj/view?usp=sharing"
   }
 ]
