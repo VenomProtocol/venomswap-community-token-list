@@ -118,5 +118,13 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE1bB502E389e78070b5E7f97BD3b594C0Fd9D7b6",
+    "symbol": "PERK",
+    "name": "Perk",
+    "decimals": 18,
+    "logoURI": "https://user-images.githubusercontent.com/86182275/122851550-c316b880-d32c-11eb-8fcd-a22bb8e05fc4.png"
   }
 ]
