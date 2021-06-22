@@ -118,5 +118,12 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5ed8E6B0a0B72939970d612977F8303F78be446d",
+    "symbol": "CATA",
+    "name": "Catalyst",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/PPG8M6X.png"
 ]
