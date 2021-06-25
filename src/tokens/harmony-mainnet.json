@@ -118,5 +118,13 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2F20a4022Bf71daf47eC43972B6ecF56e0DB0609",
+    "symbol": "bscBELUGA",
+    "name": "BELUGA",
+    "decimals": 18,
+    "logoURI": "https://cdn.discordapp.com/attachments/811676724520943658/858123697042882560/brand-logo-v2.23e5d279.png"
   }
 ]
