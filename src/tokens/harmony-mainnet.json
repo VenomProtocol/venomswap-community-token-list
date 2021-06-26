@@ -118,5 +118,13 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8948985338e836f82435efc944fe5131c734c18e",
+    "symbol": "YOG",
+    "name": "Yogurt",
+    "decimals": 18,
+    "logoURI": "https://pasteboard.co/K8pCBLG.png"
   }
 ]
