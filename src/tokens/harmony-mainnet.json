@@ -118,5 +118,13 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x29957b322a9221ca53c8f0d9a7f9eb9954a6cf6e",
+    "symbol": "MoonS",
+    "name": "MooneyShot",
+    "decimals": 9,
+    "logoURI": "https://i.ibb.co/F6jsBXd/mooneyshot-cropped-icon.png"
   }
 ]
