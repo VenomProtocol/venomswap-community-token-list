@@ -126,5 +126,22 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://drive.google.com/file/d/1ectTV1j9LlFqOBVpBH6No1yFGUFY2Dog/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5ed8E6B0a0B72939970d612977F8303F78be446d",
+    "symbol": "CATA",
+    "name": "Catalyst",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CATA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x54b3cc870576b2059f464929aE52196719631EaC",
+    "symbol": "SEAHORSE",
+    "name": "Seahorse",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
+
   }
 ]
