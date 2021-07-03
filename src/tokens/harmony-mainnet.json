@@ -135,4 +135,12 @@
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x5803e675830bec3bb0d3d1df1b9486be16545a21",
+    "symbol": "SNEK",
+    "name": "Sneks Community Token",
+    "decimals": 18,
+    "logoURI": "https://user-images.githubusercontent.com/86575394/124363794-bf7c0f00-dc13-11eb-810a-80c376c86f1f.png"
+  }
 ]
