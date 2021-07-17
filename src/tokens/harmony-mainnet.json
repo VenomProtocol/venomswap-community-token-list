@@ -121,18 +121,34 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x5305d2fcfc9981c4518c498194df493968d1d822",
+    "address": "0x5ed8E6B0a0B72939970d612977F8303F78be446d",
+    "symbol": "CATA",
+    "name": "Catalyst",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CATA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x54b3cc870576b2059f464929aE52196719631EaC",
+    "symbol": "SEAHORSE",
+    "name": "Seahorse",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5305D2fcfc9981c4518C498194Df493968D1D822",
     "symbol": "FRATE",
     "name": "Fraterium",
     "decimals": 18,
-    "logoURI": "https://drive.google.com/file/d/1EB9tdbsdTVadc_SmiMdtTsuAshkwtrjj/view?usp=sharing"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
   },
-  {
+{
     "chainId": 1666600000,
     "address": "0x52274a3aF646153faB00b8605E1F6F7072ce71F3",
     "symbol": "fRENT",
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
-  }
+}
 ]
