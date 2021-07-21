@@ -142,5 +142,13 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x6008C8769BFACd92251bA838382e7e5637C7e74D",
+    "symbol": "COSMIC",
+    "name": "Cosmic Coin",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/BFdPX6N.png"
   }
 ]
