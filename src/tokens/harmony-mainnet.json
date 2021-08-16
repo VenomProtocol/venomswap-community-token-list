@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x49aaed52cec79ba9b4388b8ba4d672b6ac02a055",
+    "symbol": "BAS",
+    "name": "Bastion",
+    "decimals": 18,
+    "logoURI": "https://drive.google.com/file/d/1pdV26DxOxRkFfYJ60JgXu3RUSwV6Yt9k/view?usp=sharing"
   }
 ]
