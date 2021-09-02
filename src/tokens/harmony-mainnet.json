@@ -214,5 +214,21 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xded960d1015a341d35460099fa7c9b9f6c2c7d9e",
+    "symbol": "CYANIDE",
+    "name": "Cyanide",
+    "decimals": 9,
+    "logoURI": "https://sankarsrinivasan.com/personal/cyanide500.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xec84b55a19c7f56e6cb9970a1e2e0cf9f293283f",
+    "symbol": "POISON",
+    "name": "Poison",
+    "decimals": 9,
+    "logoURI": "https://sankarsrinivasan.com/personal/poison500.png"
   }
 ]
