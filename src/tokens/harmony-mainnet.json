@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x24b6179e4062ed9baeace0e6081dbd55b6072380",
+    "symbol": "FLOKI",
+    "name": "FlokiONE",
+    "decimals": 9,
+    "logoURI": "http://flokione.com/assets/images/logo-big.png"
   }
 ]
