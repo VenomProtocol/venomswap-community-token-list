@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
+    "symbol": "MAGIC",
+    "name": "Magic",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/thecosmicuniverse/branding/main/MAGIC-Logo-200x200.png"
+  {
 ]
