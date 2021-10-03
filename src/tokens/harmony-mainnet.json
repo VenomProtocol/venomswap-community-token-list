@@ -31,6 +31,7 @@
     "decimals":18,
     "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
   },
+  
   {
     "chainId":1666600000,
     "address":"0x9017527236D84F96CF9AE6107629eFDa84B5c964",
@@ -214,5 +215,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x4de87b37865f9c8694a25aaeef90fa1387b14c2e",
+    "symbol": "VER",
+    "name": "Version11",
+    "decimals": 18,
+    "logoURI": "https://drive.google.com/file/d/1he6y9rfzaioFxl0_Q1GxFPrZseTyWCt-/view?usp=sharing"
+  },
 ]
