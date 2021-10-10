@@ -215,4 +215,12 @@
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
   }
+{
+    "chainId": 1666600000,
+    "address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
+    "symbol": "Ikura",
+    "name": "Ikura Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/IkuraToken/assets/master/blockchains/harmony/assets/0x40d2f81bd135b5282cb2aa18f19cf7098079d012/logo.png"
+  }
 ]
