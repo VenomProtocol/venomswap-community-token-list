@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8e56ca9d40c97bbe4705305a1ec2c89941292640",
+    "symbol": "CHK",
+    "name": "CHONK",
+    "decimals": 18,
+    "logoURI": "https://mega.nz/file/FglzmI4Y#LHRFiV2yAFYCuMeti7au-5mqpdSH_SkCCNheofJm3HQ"
   }
 ]
