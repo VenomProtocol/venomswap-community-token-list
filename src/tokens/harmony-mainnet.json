@@ -161,6 +161,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
+    "symbol": "OpenX",
+    "name": "OpenSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xfe1b516A7297eb03229A8B5AfAD80703911E81cB",
     "symbol": "ROY",
     "name": "Royale",
