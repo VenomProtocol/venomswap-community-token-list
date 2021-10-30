@@ -214,5 +214,12 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xAa5192F95a89e885Fa02b5192eA7076f204c907c",
+    "symbol": "SHIDE",
+    "name": "SHIBA DEFENDER",
+    "decimals": 18,
+    "logoURI": "https://drive.google.com/file/d/1KOujQQQ16jO0wYyu7JnLoIFC10vxP2pw/view?usp=sharing"
 ]
