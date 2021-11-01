@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xB24b535658Fd26aEafa998F96c39a2768Fa04Bc0",
+    "symbol": "CUBE",
+    "name": "METACUBE",
+    "decimals": 9,
+    "logoURI": "https://storage.googleapis.com/webflow-glb-files/METACUBE.png"
+  }  
 ]
