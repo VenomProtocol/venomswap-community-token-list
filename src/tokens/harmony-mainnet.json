@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x08a748ca305294841a37c370f511697ef56037f8",
+    "symbol": "TGT",
+    "name": "Gleepers",
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/1141594?s=96&v=4"
   }
 ]
