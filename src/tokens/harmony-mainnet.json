@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x82c1b94fc11db980bc3a7cc361ff057864cd964a",
+    "symbol": "SKH",
+    "name": "Spark of Hope",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Spark-of-Hope/logo/main/SKH512.png"
   }
 ]
