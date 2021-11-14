@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x08fe1a3cf9dc1676efab0eaa6af6a37a2666aba2",
+    "symbol": "GODW",
+    "name": "godwallet.io",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/GodWallet/Repo/main/GODW-32.png"
   }
 ]
