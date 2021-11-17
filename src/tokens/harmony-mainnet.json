@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x725553bc9aa0939362671407dfdeb162dd37d168",
+    "symbol": "MET",
+    "name": "Metatr.one",
+    "decimals": 18,
+    "logoURI": "https://metatr.one/wp-content/uploads/2021/11/metatron-fav-1.png"
   }
 ]
