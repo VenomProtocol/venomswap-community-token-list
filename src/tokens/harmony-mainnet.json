@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+   {
+    "chainId": 1666600000,
+    "address": "0xfc368600e48132bd56d87c8b5288d4330dedcef4",
+    "symbol": "VICE",
+    "name": "Viceroy",
+    "decimals": 18,
+    "logoURI": "https://ibb.co/zs20WWr"
   }
 ]
