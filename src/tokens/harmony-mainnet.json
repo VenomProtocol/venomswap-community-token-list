@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9d2762a1E59B571E6Ea82baD6c99617074f5B48D",
+    "symbol": "GLUE",
+    "name": "Gluecoin",
+    "decimals": 18,
+    "logoURI": "hhttps://ibb.co/zs20WWr"
   }
 ]
