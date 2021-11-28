@@ -230,5 +230,12 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
-  }
+  },
+  {
+    "chainId":1666600000,
+    "address":"0xC3DC73f7e9aC7d8E39838ceD250d0baa9f3FC45F",
+    "symbol":"JGOD",
+    "name":"JGOD",
+    "decimals":1,
+    "logoURI": "https://i.imgur.com/BKWFCOd.png"
 ]
