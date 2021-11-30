@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xC36769DFcDF05B2949F206FC34C8870707D33C89",
+    "symbol": "1PEGG",
+    "name": "Parrot Egg",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/parrotdefifarm1/parrotdefi_harmony/main/public/images/egg/logo-128.png?token=AVW35DDZG4OWQGCUDJ3FPZLBUXWYK"
   }
 ]
