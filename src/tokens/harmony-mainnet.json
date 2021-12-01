@@ -246,5 +246,12 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xddEC9aBeE0a799Dd1eD3540FAb9F14691701Fd9A",
+    "symbol": "HRP",
+    "name": "Harp",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/FFKftfL.png"
 ]
