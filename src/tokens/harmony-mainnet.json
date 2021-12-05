@@ -1,6 +1,14 @@
 [
   {
     "chainId":1666600000,
+    "address":"0x60b4568120471bbff3dec520ba6609def89001c3",
+    "symbol":"KIBA",
+    "name":"KibaOne",
+    "decimals":18,
+    "logoURI":"https://user-images.githubusercontent.com/94655134/144765281-6ab5cd7c-fd4c-4027-b1ea-2f453ed46fe3.png"
+  },
+  {
+    "chainId":1666600000,
     "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
     "symbol":"EUSK",
     "name":"Mintbes Token",
