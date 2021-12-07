@@ -246,5 +246,12 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb1687C42462d0AE9a4978d5985833dA199307aDF",
+    "symbol": "CHC",
+    "name": "CoinHodlerClub",
+    "decimals": 18,
+    "logoURI": "https://imgur.com/7AUhq7H"
 ]
