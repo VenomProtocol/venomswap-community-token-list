@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb49bd1d655f71c552e63D8914E1827b7ED27679c",
+    "symbol": "WWC",
+    "name": "WhaleWallet Coin",
+    "decimals": 18,
+    "logoURI": "https://imgur.com/a/hTlGQ0Z"
   }
 ]
