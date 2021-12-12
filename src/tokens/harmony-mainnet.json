@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
-  }
+  },
+  {
+     "chainId": 1666600000,
+     "address": "0x5788459f55dff8f459281CC0d5Fe445aDE71B2ae",
+     "symbol": "CHEFF",
+     "name": "Cheff Token",
+     "decimals": 18,
+     "logoURI": "https://www.cheffpool.com/images/cheff_logo.png"
+   }
 ]
