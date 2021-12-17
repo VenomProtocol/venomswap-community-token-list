@@ -1,6 +1,14 @@
 [
   {
     "chainId":1666600000,
+    "address":"0x971803c316d80eE490156aF78e8eb5067EDB73AC",
+    "symbol":"rfUST",
+    "name":"ReflectUST",
+    "decimals":9,
+    "logoURI":"https://ibb.co/Qd4wjdN"
+  },
+  {
+    "chainId":1666600000,
     "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
     "symbol":"EUSK",
     "name":"Mintbes Token",
