@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xaad96d04f00b718b9ed43e39db8e73de61cef8b7",
+    "symbol": "1ORBS",
+    "name": "ORBS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/orbs-network/graphical-assets/main/orbs/ethereum/token/logo256.png"
   }
 ]
