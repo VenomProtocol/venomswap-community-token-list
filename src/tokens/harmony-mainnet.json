@@ -246,5 +246,21 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x85fd5f8dbd0c9ef1806e6c7d4b787d438621c1dc",
+    "symbol": "IRIS",
+    "name": "Iris",
+    "decimals": 18,
+    "logoURI": "https://ibb.co/WGmt5C4"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd32858211fcefd0be0dd3fd6d069c3e821e0aef3",
+    "symbol": "PLTS",
+    "name": "Plutus",
+    "decimals": 18,
+    "logoURI": "https://ibb.co/Nr2z3LZ"
   }
 ]
