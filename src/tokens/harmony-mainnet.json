@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb211780d2CB2180247da7c1c7984923C2a60F372",
+    "symbol": "DSU",
+    "name": "Dusya",
+    "decimals": 18,
+    "logoURI": "https://ibb.co/MB9WV7C"
   }
 ]
