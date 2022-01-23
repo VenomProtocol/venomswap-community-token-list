@@ -319,4 +319,12 @@
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x98692d200767902a0D7D5E63659f6fCAF16Fb9C4",
+    "symbol": "OUSD",
+    "name": "OneUSD",
+    "decimals": 18,
+    "logoURI": "https://freeimage.host/i/lIoZ2p"
+  }
 ]
