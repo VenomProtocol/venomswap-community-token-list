@@ -321,10 +321,10 @@
   }
   {
     "chainId": 1666600000,
-    "address": "0x98692d200767902a0D7D5E63659f6fCAF16Fb9C4",
-    "symbol": "OUSD",
-    "name": "OneUSD",
+    "address": "0x135f763C5Fa7354f62B2b5BeC662Daa3f69c80DC",
+    "symbol": "FUNDS",
+    "name": "FundsFi",
     "decimals": 18,
-    "logoURI": "https://freeimage.host/i/lIoZ2p"
+    "logoURI": "https://ibb.co/xs9JB0m"
   }
 ]
