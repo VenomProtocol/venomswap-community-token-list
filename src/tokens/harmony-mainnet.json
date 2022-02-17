@@ -318,5 +318,13 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf370745abb05634dc30b98df88f04cc5ce323e00",
+    "symbol": "BUCKS",
+    "name": "ExpArt.me BUCKS",
+    "decimals": 0,
+    "logoURI": "https://i.imgur.com/Rprr38J.png"
   }
 ]
