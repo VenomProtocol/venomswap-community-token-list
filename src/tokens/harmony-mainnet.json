@@ -318,5 +318,13 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0007E7f456A6Bb854606f04cc16989aCFe42F2F2",
+    "symbol": "VITC",
+    "name": "Vitamin Coin",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
   }
 ]
