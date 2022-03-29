@@ -318,5 +318,13 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xC079d0385492Ac2D0e89ca079c186Dd71ef49B1e",
+    "symbol": "USE",
+    "name": "Useless",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/USE.png"
   }
 ]
