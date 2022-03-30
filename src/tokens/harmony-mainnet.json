@@ -318,5 +318,13 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x779b5b07c5b7320b5539a5f1b31cc94e0ade879f",
+    "symbol": "CENT",
+    "name": "CENTAURI",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CENT.png"
   }
 ]
