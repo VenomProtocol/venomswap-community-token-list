@@ -1,83 +1,83 @@
 [
   {
-    "chainId":1666600000,
-    "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
-    "symbol":"EUSK",
-    "name":"Mintbes Token",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
+    "chainId": 1666600000,
+    "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
+    "symbol": "EUSK",
+    "name": "Mintbes Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
-    "symbol":"LMA",
-    "name":"LMA-Art-Gallery",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LMA.png"
+    "chainId": 1666600000,
+    "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
+    "symbol": "LMA",
+    "name": "LMA-Art-Gallery",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LMA.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x3Ec248eD4B69142A40FB2F2b9d990125a830A598",
-    "symbol":"NFT",
-    "name":"CryptoBunny",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
+    "chainId": 1666600000,
+    "address": "0x3Ec248eD4B69142A40FB2F2b9d990125a830A598",
+    "symbol": "NFT",
+    "name": "CryptoBunny",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x7531905C4C80b602CFf46Badc1671FbAD496f043",
-    "symbol":"MCONE",
-    "name":"McOne Coin",
-    "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MCONE.png"
+    "chainId": 1666600000,
+    "address": "0x7531905C4C80b602CFf46Badc1671FbAD496f043",
+    "symbol": "MCONE",
+    "name": "McOne Coin",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MCONE.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x5415B30fc46317ef494fa96d755350437aE15ac9",
-    "symbol":"LFGT",
-    "name":"Let's Fucking Go Token",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
+    "chainId": 1666600000,
+    "address": "0x5415B30fc46317ef494fa96d755350437aE15ac9",
+    "symbol": "LFGT",
+    "name": "Let's Fucking Go Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x495500b582ab72AD47Eb2D301469CE799BDdF9e4",
-    "symbol":"BOOM",
-    "name":"Boomers",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/BOOM.png"
+    "chainId": 1666600000,
+    "address": "0x495500b582ab72AD47Eb2D301469CE799BDdF9e4",
+    "symbol": "BOOM",
+    "name": "Boomers",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/BOOM.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0",
-    "symbol":"MOONI",
-    "name":"Moonity",
-    "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MOONI.png"
+    "chainId": 1666600000,
+    "address": "0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0",
+    "symbol": "MOONI",
+    "name": "Moonity",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MOONI.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0xE59AA7f9e91B4Cc6C25D3542CEcb851e0316138c",
-    "symbol":"YIN",
-    "name":"Yin",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YIN.png"
+    "chainId": 1666600000,
+    "address": "0xE59AA7f9e91B4Cc6C25D3542CEcb851e0316138c",
+    "symbol": "YIN",
+    "name": "Yin",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YIN.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x340042552D19211795dbe55d84FA2E63bc49B890",
-    "symbol":"YANG",
-    "name":"Yang",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YANG.png"
+    "chainId": 1666600000,
+    "address": "0x340042552D19211795dbe55d84FA2E63bc49B890",
+    "symbol": "YANG",
+    "name": "Yang",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YANG.png"
   },
   {
-    "chainId":1666600000,
-    "address":"0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
-    "symbol":"KURO",
-    "name":"Kuro Shiba",
-    "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KURO.png"
+    "chainId": 1666600000,
+    "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
+    "symbol": "KURO",
+    "name": "Kuro Shiba",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KURO.png"
   },
   {
     "chainId": 1666600000,
@@ -318,5 +318,21 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x140320a14b1422ca36b45a41c46ec8179298ceb5",
+    "symbol": "INSIG",
+    "name": "Insignis",
+    "decimals": 6,
+    "logoURI": "https://d2cll3kwmjapub.cloudfront.net/venomswap/tokens/INSIG.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0aeec7718baefc4a4e322a35c387d75b9c2c911e",
+    "symbol": "WINSIG",
+    "name": "Wrapped INSIG",
+    "decimals": 6,
+    "logoURI": "https://d2cll3kwmjapub.cloudfront.net/venomswap/tokens/WINSIG.png"
   }
 ]
