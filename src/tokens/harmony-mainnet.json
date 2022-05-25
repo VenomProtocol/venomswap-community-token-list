@@ -318,5 +318,13 @@
     "name": "UBOND",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F",
+    "symbol": "EVO",
+    "name": "EVO",
+    "decimals": 18,
+    "logoURI": "https://evoverses.com/evoToken.png"
   }
 ]
